@@ -1,4 +1,4 @@
-# Coinroll
+# Coinroll (Solana-colosseum-hackathon-2025)
 
 A decentralized crypto-native invoicing and payroll platform built on Solana, featuring zk compression and integrations with Streamflow and Mercuryo.
 
